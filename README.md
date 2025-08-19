@@ -16,7 +16,7 @@ Actualmente estoy en búsqueda de una **oportunidad laboral** donde pueda seguir
 Me interesa especialmente formar parte de un equipo donde el **aprendizaje sea continuo**, con desafíos reales que me permitan crecer y aportar valor a través de los datos.
 
 ### 📫 Conectemos
-- 💼 [LinkedIn](tu-link-linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonel-fuhrmann-b6731537b/?trk=opento_sprofile_details)  
 - 📊 Aquí en GitHub podés ver mis proyectos destacados: [Repositorios](https://github.com/LeonelVFuhrmann?tab=repositories)  
 
 ---
