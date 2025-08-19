@@ -10,6 +10,9 @@ Durante mi paso por el **bootcamp de Henry** adquirí experiencia trabajando en 
 - **Bases de datos**: modelado entidad-relación (MER), consultas avanzadas y gestión de datos en la nube.  
 -  **Trabajo en equipo**: experiencia desarrollando proyectos en conjunto, aplicando metodologías ágiles, dividiendo tareas de limpieza, modelado y visualización de datos, y coordinando entregas en equipo.
 
+🎯 Próximo Objetivo
+📌 Profundizar en Google Cloud Platform (BigQuery, Cloud Functions)
+📌 Desarrollar proyectos de automatización y uso de IAs para el analisis de datos 
 
 ### 🌱 Lo que busco
 Actualmente estoy en búsqueda de una **oportunidad laboral** donde pueda seguir desarrollándome como **Data Analyst**.  
