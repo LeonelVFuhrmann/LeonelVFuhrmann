@@ -17,7 +17,7 @@ Me interesa especialmente formar parte de un equipo donde el **aprendizaje sea c
 
 ### 📫 Conectemos
 - 💼 [LinkedIn](tu-link-linkedin)  
-- 📊 Aquí en GitHub podés ver mis proyectos destacados: [Repositorios](https://github.com/tu-usuario)  
+- 📊 Aquí en GitHub podés ver mis proyectos destacados: [Repositorios](https://github.com/LeonelVFuhrmann?tab=repositories)  
 
 ---
 
